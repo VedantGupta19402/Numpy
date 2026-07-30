@@ -1,0 +1,34 @@
+looks ups are used to find the data
+vertical lookup 
+-->click on the first cell on a new coloumn  =vlookup(id,)
+
+
+
+topic
+arrays
+indexing
+slicing
+shape
+reshape
+iteration
+joins
+split
+search
+sort 
+filter
+
+
+reasons
+faster exeution 
+optimised c code 
+performs entire opeation at once 
+memory efficent 
+built in mathematical operations 
+supports multi dimensional array
+power iteration tools functions like np.nditer()
+np.ndenumerate()
+mathematical built functions like sum,min,max,mean,median,mode
+ideal for large data set 
+foundation of data science 
+popular libraries like seaborn,pandas,metalab
+##np.nditer() is an multi dimensional iterator used to visit every elemnt in an array without writing nested loops by default first it flattns multi to single dimension
