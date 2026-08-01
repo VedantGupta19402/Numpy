@@ -32,3 +32,7 @@ ideal for large data set
 foundation of data science 
 popular libraries like seaborn,pandas,metalab
 ##np.nditer() is an multi dimensional iterator used to visit every elemnt in an array without writing nested loops by default first it flattns multi to single dimension
+split is opposite operation of joining
+searching search index of the element 
+non zero function return indices of non zero elements
+argwhere returns row and coloumn indices
